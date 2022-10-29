@@ -1,0 +1,6 @@
+@use "./resets" as *;
+@use "./components/nav";
+@use "./components/cards";
+@use "./components/footer";
+@use "../product";
+@use "../sass/components/product-card";
